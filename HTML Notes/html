@@ -1,0 +1,28 @@
+HTML Introduction
+What is HTML?
+HTML is an initialism for "HyperText Markup Language".
+It is the language of the web.
+It is used to create websites.
+It is used to define a page layout, meaning it is a barebone page structure.
+HTML is used for making pages of the website also called webpages that we see on the internet
+It consists of a set of tags.
+This set of tags is written in HTML Document.
+".html" or ".htm" is the extension.
+There are so many versions of HTML but HTML5 is the latest version.
+
+Features of HTML
+It is platform-independent.
+Images, videos, and audio can be added to a web page.
+Hypertext can be added to the text.
+It is a markup language.
+It is interpreted language
+It can be integrated with other languages like CSS, JavaScript etc.
+Semantic Structure.
+local Storage & Indexed DB – Client-side data storage.
+Offline Capabilities (PWA) with Cache API & Service Workers.
+
+History of HTML:
+In 1989, Tim Berners Lee established www and created HTML in 1991. 
+From 1995 to 1997, he started working on versions of HTML.
+In 1999, a committee was organized that made HTML4.0 a standard.
+HTML4.0 is used by many, even today. However, the stable version of HTML is 5.0 also known as HTML5.
